@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company: one
+  plan_name: MyString
+  base_price_cents: 1
+  included_usage: 1
+  overage_rate_cents: 1
+
+two:
+  company: two
+  plan_name: MyString
+  base_price_cents: 1
+  included_usage: 1
+  overage_rate_cents: 1
